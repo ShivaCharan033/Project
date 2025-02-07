@@ -47,7 +47,3 @@ Two machine learning models were implemented:
 - **Data Processing**: CSV-based dataset
 - **IDE**: RStudio
 
-## How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/heart-failure-survival.git
